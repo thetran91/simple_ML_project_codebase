@@ -43,3 +43,5 @@ Testing:
 - Create application.py using html template files from templates folder
 - Using Flask --> Web app 
 - python application.py --> run in local host port 5000, localhost:5000/predictdata
+
+app.py --> with Debug=True --> to test in local host port 5000, when deploying --> remove Debug=True 
